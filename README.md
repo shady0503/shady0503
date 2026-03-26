@@ -35,10 +35,10 @@ focus: Cloud infrastructure, distributed systems, performance optimization
 **SWE Intern** · BCG X · Mar 2026 - Present
 > Still cooking. Will report back when something ships.
 
-**Research Assistant** · Jun 2025 - Sep 2025
+**Research Assistant** · Oracle · Jun 2025 - Sep 2025
 > Secure Java microservice for NetSuite SuiteProjects Pro — certificate-based auth, RBAC, Oracle KMS integration, horizontally scalable architecture
 
-**Intern** · Jul 2024 - Aug 2024
+**SWE Intern** · Casablanca Stock Exchange · Jul 2024 - Aug 2024
 > Real-time IT operations dashboard — consolidated system health monitoring, proactive incident management
 
 ---
